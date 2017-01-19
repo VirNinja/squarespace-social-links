@@ -3,7 +3,7 @@ Squarespace Social Links
 
 Plug-and-play social icons template partial for Squarespace websites that link out to your connected accounts.
 
-*NOTICE:* This code is licensed to you pursuant to Squarespace’s Developer Terms of Use. See license section below.
+*NOTICE: This code is licensed to you pursuant to Squarespace’s Developer Terms of Use. See license section below.*
 
 ## Usage
 
