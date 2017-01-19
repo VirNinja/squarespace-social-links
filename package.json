@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "description": "A social links partial for Squarespace Developer Platform sites",
   "author": "Squarespace, Inc.",
-  "license": "SEE LICENSE IN LICENSE.txt"
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Squarespace/squarespace-social-links.git"
+  }
 }
