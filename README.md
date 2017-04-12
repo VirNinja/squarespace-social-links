@@ -20,7 +20,7 @@ npm install --save-dev @squarespace/toolbelt
 Basic usage is as simple as applying the template partial.
 
 ```jsont
-{@|apply sqs-share-buttons.block}
+{@|apply sqs-social-links.block}
 ```
 
 Tweaks are automatically added for:
